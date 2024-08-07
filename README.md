@@ -2,7 +2,7 @@
 
 I'm a senior at UC Berkeley studying Data Science with a domain emphasis on Cognitive Science. I am passionate about leveraging data and building software to solve real-world problems.
 
-- 🔭 I’m currently working on [Pokémon-Styled Wordle Game](https://github.com/danhwang0623/pokemon-wordle)
+- 🔭 I’m currently working on [Pokémon-Styled Wordle Game](https://github.com/danhwang0623/pokemon_wordle)
 - 🌱 I’m currently learning advanced machine learning techniques and fullstack development.
 - 👯 I’m looking to collaborate on open-source projects related to data science and software engineering.
 - 🤔 I’m looking for help with improving my personal website and learning best practices for software development.
