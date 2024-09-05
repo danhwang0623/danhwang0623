@@ -2,17 +2,17 @@
 
 I'm a senior at UC Berkeley studying Data Science with a domain emphasis on Cognitive Science. I am passionate about leveraging data and building software to solve real-world problems.
 
-- 🔭 I’m currently working on [Algorithm Visualizer](https://algorithm-visualizer-henna.vercel.app)
-- 🌱 I’m currently learning advanced machine learning techniques and fullstack development.
+- 🔭 I’m currently working on [Algorithm Visualizer](https://algorithm-visualizer-henna.vercel.app).
+- 🌱 I’m currently learning advanced machine learning techniques and full-stack development.
 - 👯 I’m looking to collaborate on open-source projects related to data science and software engineering.
-- 🤔 I’m looking for help with improving my personal website and learning best practices for software development.
+- 🤔 I’m looking for help with improving my website and learning best practices for software development.
 - 💬 Ask me about data science, machine learning, software engineering, or anything related to technology.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new places especially great natural scenaries. 
+- ⚡ Fun fact: I love exploring new places especially great natural sceneries. 
 
 ## 🚀 Skills
 
-- **Languages**: Python, Java, JavaScript, HTML, CSS, Ruby, SQL, Bash
+- **Languages**: Python, Java, JavaScript, HTML, CSS, Ruby, SQL, Bash, Go, PostgreSQL, NoSQL, Dart
 - **Frameworks**: React, Django, Node.js, Rails, PyTorch, Numpy, Apache, Flask, Express.js, Angular
 - **Developer Tools**: AWS, Docker, GitHub, Jira, IntelliJ, Jupyter Notebook, Agile, VS Code, OpenAI, GCP, BigQuery
 - **Libraries**: Pandas, NumPy, SciPy, scikit-learn, Keras, Matplotlib, Seaborn, Plotly
