@@ -21,6 +21,6 @@ I'm a senior at UC Berkeley studying Data Science with a domain emphasis on Cogn
 
 - **Email**: [dannielhwang@berkeley.edu](mailto:dannielhwang@berkeley.edu)
 - **LinkedIn**: [linkedin.com/in/daniel-hwang-3a3a4322b](https://www.linkedin.com/in/daniel-hwang-3a3a4322b/)
-- **Personal Website**: [hwang-personal-website-x5u7.vercel.app](https://hwang-personal-website-x5u7.vercel.app)
+- **Personal Website**: [https://daniel-personal-website-eight.vercel.app](https://daniel-personal-website-eight.vercel.app)
 - **GitHub**: [github.com/danhwang0623](https://github.com/danhwang0623)
 
