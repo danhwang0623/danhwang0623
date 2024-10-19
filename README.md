@@ -1,8 +1,8 @@
 ## Hi there, I'm Daniel 👋
 
-I'm a senior at UC Berkeley studying Data Science with a domain emphasis on Cognitive Science. I am passionate about leveraging data and building software to solve real-world problems.
+I'm a senior at UC Berkeley studying Data Science with a domain emphasis on Cognitive Science and Computer Science. I am passionate about leveraging data and building software to solve real-world problems.
 
-- 🔭 I’m currently working on a deep learning project where users can upload pictures and have it classified and identified..
+- 🔭 I’m currently working on a natural language processing project with my club to extend Meta's SAM model.
 - 🌱 I’m currently learning advanced machine learning techniques and full-stack development.
 - 👯 I’m looking to collaborate on open-source projects related to data science and software engineering.
 - 🤔 I’m looking for help with improving my website and learning best practices for software development.
@@ -12,8 +12,8 @@ I'm a senior at UC Berkeley studying Data Science with a domain emphasis on Cogn
 
 ## 🚀 Skills
 
-- **Languages**: Python, Java, JavaScript, HTML, CSS, Ruby, SQL, Bash, Go, PostgreSQL, NoSQL, Dart
-- **Frameworks**: React, Django, Node.js, Rails, PyTorch, Numpy, Apache, Flask, Express.js, Angular
+- **Languages**: Python, Java, JavaScript, HTML, CSS, Ruby, SQL, Bash, Go, PostgreSQL, NoSQL, Dart, Swift
+- **Frameworks**: React, Django, Node.js, Rails, PyTorch, Numpy, Apache, Flask, Express.js, Angular, SwiftUI, UIKit, AppleKit
 - **Developer Tools**: AWS, Docker, GitHub, Jira, IntelliJ, Jupyter Notebook, Agile, VS Code, OpenAI, GCP, BigQuery
 - **Libraries**: Pandas, NumPy, SciPy, scikit-learn, Keras, Matplotlib, Seaborn, Plotly
 
